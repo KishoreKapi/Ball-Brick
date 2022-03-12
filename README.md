@@ -1,5 +1,6 @@
 # Ball-Brick
 
+```
 Run the code in python programming language.
 Give the inputs as programe asks after run by line by line.
 Enter size of the NxN matrix :7
@@ -52,3 +53,5 @@ W           W
 W G G O G G W 
 you win HURRAY..!
 Enter the direction in which the ball need to traverse,if you want to terminate type N :N
+
+```
